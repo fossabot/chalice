@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fdazcode%2Fchalice.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fdazcode%2Fchalice?ref=badge_shield)
+
 ========================================
 Python Serverless Microframework for AWS
 ========================================
@@ -1116,3 +1118,7 @@ Related Projects
   on AWS Lambda and API Gateway.
 * `claudia <https://github.com/claudiajs/claudia>`__ - Deploy node.js projects
   to AWS Lambda and API Gateway.
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fdazcode%2Fchalice.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fdazcode%2Fchalice?ref=badge_large)
